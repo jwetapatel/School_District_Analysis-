@@ -23,3 +23,13 @@ The purpose of the project is to heip Maria to analyze the following data of the
 
 ## Results :
 
+The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have asked us to work on specifically Thomas High School 9th grade numbers.
+
+Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value, for 461 student records. Although this may seem like a significant number, these score replacements did not alter data summaries tremendously overall.
+
+![Screenshot 2022-05-12 083742](https://user-images.githubusercontent.com/96400887/168114613-720c7cac-58d3-4876-b31a-48e9f72a03fa.png)
+
+
+
+
+
