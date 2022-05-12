@@ -35,6 +35,8 @@ The purpose of the project is to heip Maria to analyze the following data of the
 
 - While calculating Per School Budget & per student budget output looks like this and confirm that the metrics for Thomas High School look like this image:
 
+![Screenshot 2022-05-12 133229](https://user-images.githubusercontent.com/96400887/168164377-e49d5aa6-46b9-434e-83d8-3a84209b3614.png)
+
 ![Screenshot 2022-05-12 084447](https://user-images.githubusercontent.com/96400887/168117503-cd40768c-57c3-4c44-92c1-41e192f88053.png)
 
 
