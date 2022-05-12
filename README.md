@@ -27,9 +27,18 @@ The purpose of the project is to heip Maria to analyze the following data of the
 
 - In order to scrutinize the Thomas High School 9th graders it was best to only replace their math and reading scores while keeping all other data associated with this student group intact.
 
-- Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value, for 461 student records. Although this may seem like a significant number, these score replacements did not alter data summaries tremendously overall.
+- Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value, for 461 student records. Although this may seem like a significant number, these score replacements did not alter data summaries tremendously overall
+- And output shows as below
 
 ![Screenshot 2022-05-12 083742](https://user-images.githubusercontent.com/96400887/168114613-720c7cac-58d3-4876-b31a-48e9f72a03fa.png)
+
+## District Summary :
+
+![Screenshot 2022-05-12 134947](https://user-images.githubusercontent.com/96400887/168165761-733749d9-5351-43dd-bda0-3f243a816185.png)
+
+- The data remains unaffected in terms of Total Schools, Total Students and Total Budget as per above analysis.
+- Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown below, the summary tables for Math & Reading Score Grade-wise display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
+
 
 ## School Summary :
 
@@ -37,6 +46,19 @@ The purpose of the project is to heip Maria to analyze the following data of the
 
 ![Screenshot 2022-05-12 133229](https://user-images.githubusercontent.com/96400887/168164377-e49d5aa6-46b9-434e-83d8-3a84209b3614.png)
 ![Screenshot 2022-05-12 084447](https://user-images.githubusercontent.com/96400887/168117503-cd40768c-57c3-4c44-92c1-41e192f88053.png)
+
+- Average Math Score and Average Reading scores for Thomas High School changed drastically from 83.42 to 59.85 and 83.85 to 60.24 respectively after the change of Data.
+
+
+## Replacing the ninth graders’ math and reading scores affected Thomas High School’s performance drastically when compared to other schools.
+
+Ninth Grader Maths scores
+
+![Screenshot 2022-05-12 140105](https://user-images.githubusercontent.com/96400887/168167479-61743dac-b4e8-4356-b901-e5ee4fd6b1e7.png)
+
+Ninth Grader Reading scores
+
+![Screenshot 2022-05-12 140134](https://user-images.githubusercontent.com/96400887/168167494-037fe760-fc1e-499b-9ac8-4ec9c879bcda.png)
 
 
 
