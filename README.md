@@ -99,8 +99,10 @@ Ninth Grader Reading scores
 
 - Charter schools performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
 
+# Summary :
 
-
+- Relacing the ninth graders' scores with NaN caused Thomas High School's overall passing percentages and average scores got dropped. The district also had its average math and reading scores decrease, as well as the overall passing percentage for students. Furthermore, Thomas High School lost its placement as a top five school within this District.
+- However, after updating the total student counts to exclude the Thomas High School ninth graders and omitting their scores from the dataset, Thomas High School regained its high average scores and retained its position as the number two school in the District.
 
 
 
