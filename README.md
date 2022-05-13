@@ -97,7 +97,9 @@ Ninth Grader Reading scores
 
 ![Screenshot 2022-05-12 school type output](https://user-images.githubusercontent.com/96400887/168188123-e92749c6-e5f7-4918-9a10-42680d6574a3.png)
 
-- Charter schools generally performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
+- Charter schools performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
+
+
 
 
 
