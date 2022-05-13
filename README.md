@@ -61,6 +61,30 @@ Ninth Grader Reading scores
 ![Screenshot 2022-05-12 140134](https://user-images.githubusercontent.com/96400887/168167494-037fe760-fc1e-499b-9ac8-4ec9c879bcda.png)
 
 
+- As per above anylysis we can conclude that average math and reading scores of Thomas High School bacame 0 from 83.6 and 83.7 respectively. 
+- Compare to other schools Thomas high aschool perfomance is very low.
+
+## replacing the ninth-grade scores affect the following:
+
+### Math and reading scores by grade
+- Here are our Top 5 Schools as per math and reading scores and avereage percentage 
+
+![Screenshot 2022-05-top5 school](https://user-images.githubusercontent.com/96400887/168186364-fdbf62f5-ea06-44df-8adb-e326228f6458.png)
+
+- Here are our Bottom 5 Schools as per math and reading scores and avereage percentage 
+
+![Screenshot 2022-05-bottom 5](https://user-images.githubusercontent.com/96400887/168186531-d43d33a8-9d7a-43e3-8ea1-5c2f91e2fdef.png)
+
+
+
+
+
+
+
+
+Scores by school spending
+Scores by school size
+Scores by school type
 
 
 
