@@ -75,6 +75,30 @@ Ninth Grader Reading scores
 
 ![Screenshot 2022-05-bottom 5](https://user-images.githubusercontent.com/96400887/168186531-d43d33a8-9d7a-43e3-8ea1-5c2f91e2fdef.png)
 
+### Scores by school spending summary
+
+![Screenshot 2022-05-12 spending per school](https://user-images.githubusercontent.com/96400887/168187500-2a5f187d-57eb-4be5-8fec-8b971c44d1c0.png)
+
+![Screenshot 2022-05-spending_data](https://user-images.githubusercontent.com/96400887/168187514-6a26d285-8848-47e5-b9e4-c434631ac437.png)
+
+- Based on above output we anylyzed that School that spent between <$584 appear to have the best-performing students in math and reading. So the schools which spent the lowest are the highest performing shcool in Math & Reading.
+
+### Scores by school size
+
+![Screenshot 2022-05-12 school size data](https://user-images.githubusercontent.com/96400887/168188000-2e513d99-9cc5-4a59-8bfb-fcbb1f57f8aa.png)
+
+- Scores by school size were calculated by determining size ranges for all 15 schools in the district:
+
+- Small (<1000) -Medium (1000-2000) -Large (2000-5000)
+
+- When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size Schools is negligible (approximately 1%). Interestingly, all District schools in this dataset are characterized as "Large" schools. This may be an indication that students in this district learn and perform better in smaller, more intimate settings.
+
+### Scores by school type (Charter vs District Schools)
+
+![Screenshot 2022-05-12 school type output](https://user-images.githubusercontent.com/96400887/168188123-e92749c6-e5f7-4918-9a10-42680d6574a3.png)
+
+- Charter schools generally performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
+- 
 
 
 
@@ -82,8 +106,9 @@ Ninth Grader Reading scores
 
 
 
-Scores by school spending
-Scores by school size
+
+
+
 Scores by school type
 
 
